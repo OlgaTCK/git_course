@@ -1,3 +1,4 @@
 # git_course
 
-new content
+new content 
+before non fast-forward merge
